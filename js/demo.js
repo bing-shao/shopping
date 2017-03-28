@@ -1,6 +1,4 @@
-/**
- * Created by an www.sucaijiayuan.com
- */
+
 window.onload = function () {
     if (!document.getElementsByClassName) {
         document.getElementsByClassName = function (cls) {
